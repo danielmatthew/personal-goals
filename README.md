@@ -7,6 +7,9 @@
 - [ ] More public speaking
 - [ ] Learn to ride a motorcycle licence
 - [ ] Practice mindfullness at least once a week
+- [ ] Learn basics of tailoring
+- [ ] Take more photographs
+- [ ] Learn to Nordic ski
 
 ## Projects
 - [ ] Write at least one website post a month
