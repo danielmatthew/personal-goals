@@ -1,8 +1,15 @@
 # Goals
 
 ## Personal
+### Week 10 (05/03/)
+- [ ] Write up Codelicious talk (from last summer!)
+- [ ] Use Sketch to create SVGs outlines for Outfittr.
+- [ ] Catch up with architecture course
+- [ ] Finish reading The Bell Jar
+
 ### Week 9
 - [ ] Write up Codelicious talk (from last summer!)
+- [ ] Attend lunchtime yoga class
 
 ### March
 
